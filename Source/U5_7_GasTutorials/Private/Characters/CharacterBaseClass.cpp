@@ -85,4 +85,3 @@ UAbilitySystemComponent* ACharacterBaseClass::GetAbilitySystemComponent() const
 {
 	return AbilitySystemComponent;
 }
-
